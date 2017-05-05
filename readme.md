@@ -1,3 +1,3 @@
 #提示更新功能
-![image](https://github.com/yufeilong92/News/blob/master/icon/a.jpg)
-![image](https://github.com/yufeilong92/News/blob/master/icon/b.jpg)
+![image](https://github.com/yufeilong92/UpDateApk/blob/master/icon/a.png)
+![image](https://github.com/yufeilong92/UpDateApk/blob/master/icon/b.png)
