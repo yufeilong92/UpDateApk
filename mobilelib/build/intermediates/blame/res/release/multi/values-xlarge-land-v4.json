@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "E:\\yfl\\Project\\project\\News\\mobilelib\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-xlarge-land-v4\\values-xlarge-land-v4.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 63,
+                    "endOffset": 114
+                },
+                "from": {
+                    "file": "C:\\Users\\YFPHILPS\\.android\\build-cache\\9c5048952f41a960320a95962d09a7db7a2bd960\\output\\res\\values-xlarge-land\\values-xlarge-land.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 63,
+                        "endOffset": 347
+                    }
+                }
+            }
+        ]
+    }
+]

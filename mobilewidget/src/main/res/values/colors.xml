@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- listitem相关颜色 -->
+    <color name="listitem_base_normal_start">#FFFFFF</color>
+    <color name="listitem_base_normal_end">#FFFFFF</color>
+    <color name="listitem_base_sel_start">#F0D0D0D0</color>
+    <color name="listitem_base_sel_end">#F0D0D0D0</color>
+    
+    <color name="listitem_base_newstype_bg">#dd3074a3</color>
+    
+    <color name="listitem_base_headline_bg">#55222222</color>
+    <color name="listitem_base_headline_titlecolor">#FFFFFF</color>
+    
+    <color name="listitem_base_titlecolor">#222222</color>
+    <color name="listitem_base_summarycolor">#909090</color>
+    
+    <!-- 下拉显示相关颜色 -->
+    <color name="pull_to_refresh_text_color">#000000</color>
+    
+    <!-- 子栏目标题栏显示相关颜色 -->
+    <color name="subchanneltab_textcolor">#222222</color>
+    <color name="subchanneltab_sel_textcolor">#bbA90404</color>
+    <color name="subchanneltab_sel_imagecolor">#bbA90404</color>
+    <color name="subchanneltab_imagecolor">#00DDDDDD</color>
+</resources>

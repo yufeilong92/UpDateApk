@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+	<!-- 列表项相关  -->
+	<string name="list_item_no_data">没有数据！</string>
+	<string name="list_item_more_msg">更多</string>
+	<string name="list_item_loading_data">正在加载</string>
+
+    <string name="pull_to_refresh_pull_label" translatable="false">向下拉动可以刷新</string>
+    <string name="pull_to_refresh_release_label" translatable="false">松开可以刷新</string>
+    <string name="pull_to_refresh_refreshing_label" translatable="false">加载中&#8230;&#8230;&#8230;</string>
+    <string name="pull_to_refresh_tap_label" translatable="false">点击刷新</string>
+</resources>

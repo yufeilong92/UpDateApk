@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "E:\\yfl\\Project\\project\\News\\mobilewidget\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "E:\\yfl\\Project\\project\\News\\mobilelib\\build\\intermediates\\bundles\\default\\res\\drawable-hdpi-v4\\ic_launcher.png"
+    },
+    {
+        "merged": "E:\\yfl\\Project\\project\\News\\mobilewidget\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_subchannel_usershow.png",
+        "source": "E:\\yfl\\Project\\project\\News\\mobilewidget\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_subchannel_usershow.png"
+    },
+    {
+        "merged": "E:\\yfl\\Project\\project\\News\\mobilewidget\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\icon_subchannel_notusershow.png",
+        "source": "E:\\yfl\\Project\\project\\News\\mobilewidget\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\icon_subchannel_notusershow.png"
+    },
+    {
+        "merged": "E:\\yfl\\Project\\project\\News\\mobilewidget\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\pulltorefresh_up_arrow.png",
+        "source": "E:\\yfl\\Project\\project\\News\\mobilewidget\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\pulltorefresh_up_arrow.png"
+    },
+    {
+        "merged": "E:\\yfl\\Project\\project\\News\\mobilewidget\\build\\intermediates\\res\\merged\\androidTest\\debug\\drawable-hdpi-v4\\pulltorefresh_down_arrow.png",
+        "source": "E:\\yfl\\Project\\project\\News\\mobilewidget\\build\\intermediates\\bundles\\debug\\res\\drawable-hdpi-v4\\pulltorefresh_down_arrow.png"
+    }
+]

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News</string>
+    <string name="app_datafiledir">fcgzyapp</string>
+    <string name="theme_name">fcg</string>
+</resources>
